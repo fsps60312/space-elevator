@@ -54,10 +54,22 @@ CVCSE 捨棄了傳統靜態纜繩的脆弱設計，轉而採用**主動式、動
 
 ### 📝 許可證 (License)
 
-本作品根據 [請在此處填寫您選擇的開源許可證，例如 MIT License 或 Creative Commons Attribution 4.0 International License] 發布。
+授權聲明： 本專案「環形循環真空項鍊式太空電梯(CVCSE) 設計藍圖」之工程設計文件、圖表與文字說明由 余柏序 創作，採用 **[CC BY-NC-ND 4.0 (姓名標示-非商業性-禁止改作 4.0 國際)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh_TW)** 授權釋出。
+
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh_TW)
+
+#### 條款摘要：
+* **姓名標示**：您必須註明作者來源（余柏序）。
+* **非商業性**：不得將本文件及其內容用於商業獲利目的。
+* **禁止改作**：您可以分享原始文件，但不得散布修改後的版本。
+
+> **免責聲明 (Disclaimer)**
+> 本文件所載之設計數據與圖表僅供技術交流與參考，不保證其絕對正確性與適用性。使用者應自行承擔使用本資料之風險，作者不對任何因使用本文件而導致的直接或間接損失負責。
 
 ---
 
-### 📧 聯繫方式 (Contact)
+### 📧 聯繫方式、商業合作與授權洽詢 (Contact)
+若您有商業使用需求，或需要基於此設計進行二次開發，請透過以下方式與我聯繫：
+* 📧 Email: fsps60312@yahoo.com.tw
+* 🌐 Website: https://codingsimplifylife.blogspot.com
 
-[請在此處填寫您的聯絡方式，例如您的 GitHub 個人資料連結或電子郵件地址]
